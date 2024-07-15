@@ -1,4 +1,4 @@
-# Hi. I'm Ayush 👋
+Hi. I'm Ayush 👋
 <table>
 <tr>
 <th align="center">
