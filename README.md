@@ -1,5 +1,4 @@
-## Ayush 👋
-Hi, I'm Ayush, a student from India who likes to spend his free time working on open-source projects.
+# Hi. I'm Ayush 👋
 <table>
 <tr>
 <th align="center">
@@ -20,14 +19,14 @@ Hi, I'm Ayush, a student from India who likes to spend his free time working on 
   
 
 
-### Skills
-
-* Java, JavaFX
-* Python, Tensorflow, PyTorch, Jupyter Notebook
-* HTML, CSS, Javascript, Django
-* C, C++, Bash
-* SQL - Postgresql, LaTeX
-* Qiskit
+Skills
+------
+Java, JavaFX<br>
+Python, Tensorflow, PyTorch, Jupyter Notebook<br>
+HTML, CSS, Javascript, Django<br>
+C, C++, Bash<br>
+SQL - Postgresql, LaTeX<br>
+Qiskit<br>
 
 📫 How to reach me: `ayushkrishna <at> iisc <dot> ac <dot> in`
 
