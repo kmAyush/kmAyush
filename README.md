@@ -6,18 +6,13 @@ Hi, I'm Ayush, a student from India who likes to spend his free time working on 
 ### Skills
 
 * Java, JavaFX
-* Python, Tensorflow, PyTorch
-* Jupyter Notebook
-* HTML + CSS
-* Javascript, Django
-* C & C++
+* Python, Tensorflow, PyTorch, Jupyter Notebook
+* HTML, CSS, Javascript, Django
+* C, C++, Bash
+* SQL - Postgresql, LaTeX
 * Qiskit
-* Bash, general linux stuff
-* SQL
-* LaTeX
 
-
-- 📖 Studying Computational and Data Sciences at IISc Bangalore, India.
+- 📖 Doing Masters at Computational and Data Sciences at IISc Bangalore, India.
 - 📫 How to reach me: `ayushkrishna <at> iisc <dot> ac <dot> in`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmAyush&layout=compact&theme=nord&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
