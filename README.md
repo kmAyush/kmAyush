@@ -1,32 +1,18 @@
 Hi. I'm Ayush 👋
-<table>
-<tr>
-<th align="center">
-<p> 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmAyush&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
-</th>
-<th align="center">
-<p> 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmAyush&layout=compact&theme=nord&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-</th>
-</tr>
-</table>
-  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmAyush&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) &ensp;&ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmAyush&layout=compact&theme=nord&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 Skills
 ------
-Java, JavaFX<br>
-Python, Tensorflow, PyTorch, Jupyter Notebook<br>
-HTML, CSS, Javascript, Django<br>
-C, C++, Bash<br>
-SQL - Postgresql, LaTeX<br>
-Qiskit<br>
+- Java, JavaFX<br>
+- Python, Tensorflow, PyTorch, Jupyter Notebook<br>
+- HTML, CSS, Javascript, Django<br>
+- C, C++, Bash<br>
+- SQL - Postgresql, LaTeX<br>
+- Qiskit<br>
 
 📫 How to reach me: `ayushkrishna <at> iisc <dot> ac <dot> in`
 
