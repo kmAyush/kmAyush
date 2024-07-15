@@ -12,8 +12,7 @@ Hi, I'm Ayush, a student from India who likes to spend his free time working on 
 * SQL - Postgresql, LaTeX
 * Qiskit
 
-- 📖 Doing Masters at Computational and Data Sciences at IISc Bangalore, India.
-- 📫 How to reach me: `ayushkrishna <at> iisc <dot> ac <dot> in`
+📫 How to reach me: `ayushkrishna <at> iisc <dot> ac <dot> in`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmAyush&layout=compact&theme=nord&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
