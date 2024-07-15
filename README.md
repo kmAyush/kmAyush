@@ -1,5 +1,26 @@
-## Hi there 👋
+## Ayush 👋
+Hi, I'm Ayush, a student from India who likes to spend his free time working on open-source projects.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmAyush&count_private=true&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills
+
+* Java, JavaFX
+* Python, Tensorflow, PyTorch
+* Jupyter Notebook
+* HTML + CSS
+* Javascript, Django
+* C & C++
+* Qiskit
+* Bash, general linux stuff
+* SQL
+* LaTeX
+
+
+- 📖 Studying Computational and Data Sciences at IISc Bangalore, India.
+- 📫 How to reach me: `ayushkrishna <at> iisc <dot> ac <dot> in`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmAyush&layout=compact&theme=nord&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kmAyush/kmAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
