@@ -6,14 +6,14 @@ Hi. I'm Ayush 👋
 
 Skills
 ------
-- Java, Rust, Javascript<br>
+- Java, Rust, C++, Javascript<br>
 - Python, Tensorflow, PyTorch<br>
 - HTML, CSS, Javascript, Django<br>
 - Nextjs, React, Flask<br>
-- SQL - Postgresql, Typst<br>
+- SQL - Postgresql, MongoDB<br>
 - Qiskit<br>
+- Typst<br>
 
-📫 How to reach me: `ayushkrishna <at> iisc <dot> ac <dot> in`
 
 
 <!--
